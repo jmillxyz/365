@@ -13,3 +13,4 @@
 - SICP lectures
 - Using pyenv, virtualenv, and pipsi
 - Windows on CircleCI
+- Algorithms practice
