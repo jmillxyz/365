@@ -3,6 +3,7 @@
 ## Complete ✅
 001. Hello World in [Elm](http://elm-lang.org/).
 002. Complete up to section 2.3 on [elmprogramming.com](elmprogramming.com)
+003. Start [resume](gitlab.com/jmillxyz/resume.git)
 
 ## Ideas 🤔
 - Dotfiles setup & sync across multiple platforms
