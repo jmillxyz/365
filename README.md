@@ -6,6 +6,8 @@
 003. Start [resume](https://gitlab.com/jmillxyz/resume)
 004. Restart with my [dotfiles](https://github.com/jmillxyz/dotfiles)
 005. Start [sunscreen](https://github.com/jmillxyz/sunscreen)
+006. Colorize [sunscreen](https://github.com/jmillxyz/sunscreen) legend, show bar
+     chart for UV!
 
 ## Project Ideas 🤔
 - More robust dotfiles setup across macOS/linux
