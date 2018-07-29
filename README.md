@@ -8,6 +8,8 @@
 005. Start [sunscreen](https://github.com/jmillxyz/sunscreen)
 006. Colorize [sunscreen](https://github.com/jmillxyz/sunscreen) legend, show bar
      chart for UV!
+007. Replace colorama library from yesterday with colored, which supports more
+     colors. Create small helper to align data vertically ([commit](https://github.com/jmillxyz/sunscreen/commit/858454c7528b1f7cf8f1b1fb138370953ed06005))
 
 ## Project Ideas 🤔
 - More robust dotfiles setup across macOS/linux
