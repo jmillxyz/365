@@ -22,3 +22,5 @@
 - Using pyenv, virtualenv, and pipsi
 - Windows on CircleCI
 - Algorithms practice
+- social: voting + [grocery store inventory] + recipes
+- marketplace: fiverr + [hardware store inventory] + landscape sketches
