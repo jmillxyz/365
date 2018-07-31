@@ -27,3 +27,4 @@
 - marketplace: fiverr + [hardware store inventory] + landscape sketches
 - browser extension to detect whether a page qualifies as the [bullshit
   web](https://pxlnv.com/blog/bullshit-web/)
+- cryptopals!
