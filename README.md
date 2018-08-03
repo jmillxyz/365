@@ -13,6 +13,7 @@
 008. Complete up to section 3.10 on [elmprogramming.com](https://elmprogramming.com)
 009. Complete up to section 3.15 on above.
 010. Save [sunscreen](https://github.com/jmillxyz/sunscreen) zipcode in a config file ([commit](https://github.com/jmillxyz/sunscreen/commit/db1e35cc74487e3c82313581b02d06ad3f888071))
+011. Publish [sunscreen](https://github.com/jmillxyz/sunscreen) to [PyPI](https://pypi.org/project/sunscreen/)!
 
 ## Project Ideas 🤔
 - More robust dotfiles setup across macOS/linux
