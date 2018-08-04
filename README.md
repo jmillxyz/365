@@ -1,28 +1,29 @@
 # 365
 
 ## Days Complete ✅
-001. Hello World in [Elm](http://elm-lang.org/).
-002. Complete up to section 2.3 on [elmprogramming.com](https://elmprogramming.com)
-003. Start [resume](https://gitlab.com/jmillxyz/resume)
-004. Restart with my [dotfiles](https://github.com/jmillxyz/dotfiles)
-005. Start [sunscreen](https://github.com/jmillxyz/sunscreen)
-006. Colorize [sunscreen](https://github.com/jmillxyz/sunscreen) legend, show bar
-     chart for UV!
-007. Replace colorama library from yesterday with colored, which supports more
-     colors. Create small helper to align data vertically ([commit](https://github.com/jmillxyz/sunscreen/commit/858454c7528b1f7cf8f1b1fb138370953ed06005))
-008. Complete up to section 3.10 on [elmprogramming.com](https://elmprogramming.com)
-009. Complete up to section 3.15 on above.
-010. Save [sunscreen](https://github.com/jmillxyz/sunscreen) zipcode in a config file ([commit](https://github.com/jmillxyz/sunscreen/commit/db1e35cc74487e3c82313581b02d06ad3f888071))
-011. Publish [sunscreen](https://github.com/jmillxyz/sunscreen) to [PyPI](https://pypi.org/project/sunscreen/)!
+001. `Jul 23, 2018` Hello World in [Elm](http://elm-lang.org/)
+002. `Jul 24, 2018` Complete up to section 2.3 on [elmprogramming.com](https://elmprogramming.com) ([repo](https://github.com/jmillxyz/elmprogramming.com))
+003. `Jul 25, 2018` Start [resume](https://gitlab.com/jmillxyz/resume)
+004. `Jul 26, 2018` Restart with my [dotfiles](https://github.com/jmillxyz/dotfiles)
+005. `Jul 27, 2018` Start [sunscreen](https://github.com/jmillxyz/sunscreen)
+006. `Jul 28, 2018` Colorize [sunscreen](https://github.com/jmillxyz/sunscreen) legend, show bar chart for UV!
+007. `Jul 29, 2018` Replace colorama library with [colored](https://pypi.org/project/colored/), for better color support.  Align data columns correctly. ([commit](https://github.com/jmillxyz/sunscreen/commit/858454c7528b1f7cf8f1b1fb138370953ed06005))
+008. `Jul 30, 2018` Complete up through section 3.09 on elmprogramming.com ([repo](https://github.com/jmillxyz/elmprogramming.com))
+009. `Jul 31, 2018` Complete up through section 3.14 on elmprogramming.com ([repo](https://github.com/jmillxyz/elmprogramming.com))
+010. `Aug 01, 2018` Save sunscreen user's zipcode in a config file ([commit](https://github.com/jmillxyz/sunscreen/commit/db1e35cc74487e3c82313581b02d06ad3f888071))
+011. `Aug 02, 2018` Publish sunscreen to [PyPI](https://pypi.org/project/sunscreen/)!
+012. `Aug 03, 2018` Complete up through section 3.15 on elmprogramming.com ([repo](https://github.com/jmillxyz/elmprogramming.com))
+013. `Aug 04, 2018` Cryptopals, set 1 challenge 1 ([repo](https://github.com/jmillxyz/cryptopals)), ([commit](https://github.com/jmillxyz/cryptopals/commit/289aa69db1846c85a4f5862c08a8c9053688c127))
 
 ## Project Ideas 🤔
+- cryptopals!
+- SICP lectures
+- website setup & maintenance
 - More robust dotfiles setup across macOS/linux
-- Blog setup & maintenance
 - Cross-platform publishing with twitter/blog (IFTTT?)
 - Writing a simple geographic backend
 - Writing a simple geographic frontend (elm?)
 - Garage door opener with Raspberry Pi
-- SICP lectures
 - Using pyenv, virtualenv, and pipsi
 - Windows on CircleCI
 - Algorithms practice
@@ -30,6 +31,5 @@
 - marketplace: fiverr + [hardware store inventory] + landscape sketches
 - browser extension to detect whether a page qualifies as the [bullshit
   web](https://pxlnv.com/blog/bullshit-web/)
-- cryptopals!
 - what is a VPN?
-- what is wireguard?
+- what is wireguard and how is it different/better?
