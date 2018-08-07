@@ -15,6 +15,7 @@
 012. `Aug 03, 2018` Complete up through section 3.15 on elmprogramming.com ([repo](https://github.com/jmillxyz/elmprogramming.com))
 013. `Aug 04, 2018` Cryptopals, set 1 challenge 1 ([repo](https://github.com/jmillxyz/cryptopals)), ([commit](https://github.com/jmillxyz/cryptopals/commit/289aa69db1846c85a4f5862c08a8c9053688c127))
 014. `Aug 05, 2018` Improve S1C1 answer w/ function, start S1C2 ([commit](https://github.com/jmillxyz/cryptopals/commit/78341e369c8a32c670d599dc810bf8090e988a2f))
+014. `Aug 06, 2018` Finish S1C2 ([commit](https://github.com/jmillxyz/cryptopals/commit/6b0616a42063659c93e197c74c5cbf2e67307a4b))
 
 ## Project Ideas 🤔
 - cryptopals!
@@ -34,3 +35,4 @@
   web](https://pxlnv.com/blog/bullshit-web/)
 - what is a VPN?
 - what is wireguard and how is it different/better?
+- windows authenticode verification from an .exe for python
