@@ -19,7 +19,8 @@
 016. `Aug 07, 2018` Finish S1C3 ([commit](https://github.com/jmillxyz/cryptopals/commit/d5330b4a1db55e645c6c668e6382100374a69a1a))
 017. `Aug 08, 2018` Start S1C4... ([commit](https://github.com/jmillxyz/cryptopals/commit/8baba9e177c34159ea51500716bc8ae405edf638))
 018. `Aug 09, 2018` Finish S1C4 ([commit](https://github.com/jmillxyz/cryptopals/commit/10d1d285e7a9cf56a1ee24396831edbc0621e941))
-019. `Aug 10, 2018` Finish S1C5, write tests... ([commit](https://github.com/jmillxyz/cryptopals/commit/36ff23578ac1fe4742a5ac73c8cb0917743dc338), [commit](https://github.com/jmillxyz/cryptopals/commit/b8b36be26070e8aea6056525d239673967d07f7e))
+019. `Aug 10, 2018` Finish S1C5, write tests... ([1](https://github.com/jmillxyz/cryptopals/commit/36ff23578ac1fe4742a5ac73c8cb0917743dc338), [2](https://github.com/jmillxyz/cryptopals/commit/b8b36be26070e8aea6056525d239673967d07f7e))
+020. `Aug 11, 2018` Get tests passing, start S1C6... ([1](https://github.com/jmillxyz/cryptopals/commit/d54d494eafb97da3f5855025d0e9b548b4180cc9), [2](https://github.com/jmillxyz/cryptopals/commit/93f956b3b4a9eb96f56313642d2953add5bd5924), [3](https://github.com/jmillxyz/cryptopals/commit/15e063a458fb9ab6292594f5268af7e864f3fab2))
 
 ## Project Ideas 🤔
 - cryptopals!
