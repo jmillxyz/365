@@ -21,7 +21,10 @@
 018. `Aug 09, 2018` Finish S1C4 ([commit](https://github.com/jmillxyz/cryptopals/commit/10d1d285e7a9cf56a1ee24396831edbc0621e941))
 019. `Aug 10, 2018` Finish S1C5, write tests... ([1](https://github.com/jmillxyz/cryptopals/commit/36ff23578ac1fe4742a5ac73c8cb0917743dc338), [2](https://github.com/jmillxyz/cryptopals/commit/b8b36be26070e8aea6056525d239673967d07f7e))
 020. `Aug 11, 2018` Get tests passing, start S1C6... ([1](https://github.com/jmillxyz/cryptopals/commit/d54d494eafb97da3f5855025d0e9b548b4180cc9), [2](https://github.com/jmillxyz/cryptopals/commit/93f956b3b4a9eb96f56313642d2953add5bd5924), [3](https://github.com/jmillxyz/cryptopals/commit/15e063a458fb9ab6292594f5268af7e864f3fab2))
-021. `Aug 12, 2018` Break ciphertext into blocks by keysize... ([1](https://github.com/jmillxyz/cryptopals/commit/692d9fb92e2ce9d0d16c964f09a8de4fd1593774))
+021. `Aug 12, 2018` Determine keysize for ch6 ([1](https://github.com/jmillxyz/cryptopals/commit/4ae88cf315b07c46606d55f29f686ee10469d284))
+022. `Aug 13, 2018` Break ciphertext into blocks by keysize... ([1](https://github.com/jmillxyz/cryptopals/commit/692d9fb92e2ce9d0d16c964f09a8de4fd1593774))
+023. `Aug 14, 2018` Cooked dinner for 9 using Salt Fat Acid Heat
+024. `Aug 15, 2018` Reviewed greedy algorithms
 
 ## Project Ideas 🤔
 - cryptopals!
@@ -43,3 +46,5 @@
 - what is wireguard and how is it different/better?
 - windows authenticode verification from an .exe for python
 - iMessage stats?
+- write script to look at repos of interest (or prompt for other activities)
+  and update this automatically ;)
